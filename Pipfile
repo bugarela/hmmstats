@@ -10,6 +10,7 @@ pandas = "*"
 pytest = "*"
 flask = "*"
 flask-restful = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
