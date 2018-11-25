@@ -27,4 +27,4 @@ class TopsResource(hmmstatsResource):
         top_val = players[stat].max()
         return_data = players[players[stat] == top_val]
 
-        return return_data.to_dict()
+        return return_data.to_dict('records')
