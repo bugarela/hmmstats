@@ -3,7 +3,7 @@ from flask_restful import Resource, Api
 
 import pandas as pd
 
-from hmmstats.data import get_all, get_players, STATS
+from hmmstats.data import get_all, get_players, STATS, TIME_STATS
 
 
 class hmmstatsResource(Resource):
@@ -18,13 +18,24 @@ class TopsResource(hmmstatsResource):
         df = get_all(input['partidas'])
         players = get_players(df)
 
-        stat = input['stat']
         minuto = input['minuto']
 
-        if(minuto):
-            players[stat] = 60 * players[stat] / players['tempo']
+        return_data = dict()
 
-        top_val = players[stat].max()
-        return_data = players[players[stat] == top_val]
+        for stat in STATS:
+            if(minuto):
+                players[stat] = 60 * players[stat] / players['tempo']
 
-        return return_data.to_dict('records')
+            top_val = players[stat].max()
+            return_data[stat] = players[players[stat]
+                                        == top_val].to_dict('records')
+
+        for time_stat in TIME_STATS:
+            if(minuto):
+                players[time_stat] = 60 * players[time_stat] / players['tempo']
+
+            top_val = players[time_stat].max()
+            return_data[time_stat] = players[players[time_stat]
+                                             == top_val].to_dict('records')
+
+        return return_data

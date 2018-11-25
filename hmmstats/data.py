@@ -1,6 +1,7 @@
 import pandas as pd
 
 STATS = ['dano', 'reparo', 'kills', 'deaths', 'assists']
+TIME_STATS = ['sabotagem', 'bomba']
 
 
 def get_all(partidas):
@@ -23,10 +24,8 @@ def get_players(df):
     for stat in STATS:
         players[stat] = players[stat].astype('int')
 
-    players['tempo'] = pd.to_timedelta(
-        '00:'+players['tempo']).dt.total_seconds()
-
-    players['bomba'] = pd.to_timedelta(
-        '00:'+players['bomba']).dt.total_seconds()
+    for time_stat in TIME_STATS + ['tempo']:
+        players[time_stat] = pd.to_timedelta(
+            '00:'+players[time_stat]).dt.total_seconds()
 
     return players

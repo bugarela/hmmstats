@@ -3,7 +3,7 @@ from flask_restful import Resource, Api
 
 import pandas as pd
 
-from hmmstats.data import get_all, get_players, STATS
+from hmmstats.data import get_all, get_players, STATS, TIME_STATS
 
 
 class hmmstatsResource(Resource):
@@ -23,6 +23,7 @@ class MediaMinutoResource(hmmstatsResource):
         for stat in STATS:
             return_data[stat] = 60 * players[stat] / players['tempo']
 
-        return_data['bomba'] = players['bomba'] / players['tempo']
+        for time_stat in TIME_STATS:
+            return_data[time_stat] = players[time_stat] / players['tempo']
 
         return return_data.to_dict()
