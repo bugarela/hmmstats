@@ -1,0 +1,100 @@
+{
+    "tempo de partida": "09:04",
+    "ganhador": "Time Azul",
+    "time azul": [{
+            "nome": "Corvo",
+            "carro": "Full Metal Judge",
+			"gols": "1",
+            "dano": "13519",
+            "reparo": "0",
+            "bomba": "03:23",
+            "sabotagem": "00:00",
+            "kills": "10",
+            "deaths": "4",
+            "assists": "16"
+        },
+        {
+            "nome": "Ichihara",
+            "carro": "Stingray",
+			"gols": "1",
+            "dano": "10909",
+            "reparo": "0",
+            "bomba": "00:20",
+            "sabotagem": "01:19",
+            "kills": "10",
+            "deaths": "6",
+            "assists": "11"
+        },
+        {
+            "nome": "Gatito",
+            "carro": "Windrider",
+			"gols": "1",
+            "dano": "9293",
+            "reparo": "5775",
+            "bomba": "00:22",
+            "sabotagem": "00:53",
+            "kills": "7",
+            "deaths": "4",
+            "assists": "11"
+        },
+        {
+            "nome": "Rato sobre Rodas",
+            "carro": "Wildfire",
+			"gols": "0",
+            "dano": "14162",
+            "reparo": "0",
+            "bomba": "00:13",
+            "sabotagem": "00:17",
+            "kills": "12",
+            "deaths": "4",
+            "assists": "16"
+    }],
+    "time vermelho": [{
+            "nome": "PuppZ",
+            "carro": "Windrider",
+			"gols": "0",
+            "dano": "5680",
+            "reparo": "6413",
+            "bomba": "00:04",
+            "sabotagem": "00:36",
+            "kills": "1",
+            "deaths": "12",
+            "assists": "8"
+        },
+        {
+            "nome": "Davivss",
+            "carro": "Stingray",
+			"gols": "0",
+            "dano": "10942",
+            "reparo": "0",
+            "bomba": "00:20",
+            "sabotagem": "01:33",
+            "kills": "7",
+            "deaths": "6",
+            "assists": "3"
+        },
+        {
+            "nome": "Malkaviiano",
+            "carro": "Wildfire",
+			"gols": "0",
+            "dano": "14287",
+            "reparo": "0",
+            "bomba": "00:10",
+            "sabotagem": "00:26",
+            "kills": "8",
+            "deaths": "9",
+            "assists": "4"
+        },
+        {
+            "nome": "RickyBotLutherKingJrGamePlays",
+            "carro": "Full Metal Judge",
+			"gols": "1",
+            "dano": "6998",
+            "reparo": "0",
+            "bomba": "03:02",
+            "sabotagem": "00:00",
+            "kills": "2",
+            "deaths": "11",
+            "assists": "8"
+    }]
+}

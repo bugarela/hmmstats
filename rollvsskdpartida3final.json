@@ -1,0 +1,92 @@
+{
+    "tempo de partida": "15:49",
+    "ganhador": "time azul",
+    "time azul": [{
+            "nome": "Corvo",
+            "carro": "Full Metal Judge",
+            "dano": "18945",
+            "reparo": "0",
+            "bomba": "05:10",
+            "sabotagem": "00:00",
+            "kills": "10",
+            "deaths": "7",
+            "assists": "10"
+        },
+        {
+            "nome": "Birikita",
+            "carro": "Windrider",
+            "dano": "13586",
+            "reparo": "8488",
+            "bomba": "01:07",
+            "sabotagem": "01:38",
+            "kills": "2",
+            "deaths": "7",
+            "assists": "12"
+        },
+        {
+            "nome": "Pottro",
+            "carro": "Stingray",
+            "dano": "29367",
+            "reparo": "0",
+            "bomba": "00:43",
+            "sabotagem": "03:32",
+            "kills": "15",
+            "deaths": "1",
+            "assists": "10"
+        },
+        {
+            "nome": "Thuglife",
+            "carro": "Killer J",
+            "dano": "21283",
+            "reparo": "0",
+            "bomba": "01:05",
+            "sabotagem": "03:32",
+            "kills": "14",
+            "deaths": "7",
+            "assists": "10"
+    }],
+    "time vermelho": [{
+            "nome": "Katsuraf",
+            "carro": "Dirt Devil",
+            "dano": "23483",
+            "reparo": "0",
+            "bomba": "01:08",
+            "sabotagem": "00:11",
+            "kills": "15",
+            "deaths": "12",
+            "assists": "2"
+        },
+        {
+            "nome": "Coldhands",
+            "carro": "Clunker",
+            "dano": "9817",
+            "reparo": "0",
+            "bomba": "01:06",
+            "sabotagem": "01:49",
+            "kills": "4",
+            "deaths": "12",
+            "assists": "3"
+        },
+        {
+            "nome": "Myly",
+            "carro": "Metal Herald",
+            "dano": "14283",
+            "reparo": "25",
+            "bomba": "00:41",
+            "sabotagem": "00:00",
+            "kills": "3",
+            "deaths": "11",
+            "assists": "6"
+        },
+        {
+            "nome": "Penha",
+            "carro": "Icebringer",
+            "dano": "8277",
+            "reparo": "19773",
+            "bomba": "03:01",
+            "sabotagem": "02:18",
+            "kills": "1",
+            "deaths": "6",
+            "assists": "7"
+    }]
+}

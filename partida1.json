@@ -1,0 +1,100 @@
+{
+    "tempo de partida": "09:33",
+    "ganhador": "Time Azul",
+    "time azul": [{
+            "nome": "Ichihara",
+            "carro": "Black Lotus",
+			"gols": "1",
+            "dano": "8241",
+            "reparo": "0",
+            "bomba": "03:32",
+            "sabotagem": "00:00",
+            "kills": "5",
+            "deaths": "7",
+            "assists": "10"
+        },
+        {
+            "nome": "Corvo",
+            "carro": "Stargazer",
+			"gols": "0",
+            "dano": "11775",
+            "reparo": "24264",
+            "bomba": "00:02",
+            "sabotagem": "00:00",
+            "kills": "7",
+            "deaths": "3",
+            "assists": "14"
+        },
+        {
+            "nome": "Gatito",
+            "carro": "Killer J",
+			"gols": "1",
+            "dano": "13497",
+            "reparo": "0",
+            "bomba": "00:32",
+            "sabotagem": "1:59",
+            "kills": "12",
+            "deaths": "4",
+            "assists": "10"
+        },
+        {
+            "nome": "Rato sobre Rodas",
+            "carro": "Wildfire",
+			"gols": "1",
+            "dano": "17044",
+            "reparo": "0",
+            "bomba": "00:42",
+            "sabotagem": "00:25",
+            "kills": "8",
+            "deaths": "3",
+            "assists": "16"
+    }],
+    "time vermelho": [{
+            "nome": "Stchublembs",
+            "carro": "Full Metal Judge",
+			"gols": "0",
+            "dano": "13951",
+            "reparo": "0",
+            "bomba": "02:19",
+            "sabotagem": "00:00",
+            "kills": "4",
+            "deaths": "6",
+            "assists": "8"
+        },
+        {
+            "nome": "bardZ",
+            "carro": "Windrider",
+			"gols": "0",
+            "dano": "9118",
+            "reparo": "7775",
+            "bomba": "00:00",
+            "sabotagem": "00:54",
+            "kills": "1",
+            "deaths": "8",
+            "assists": "8"
+        },
+        {
+            "nome": "L'enfer",
+            "carro": "Stingray",
+			"gols": "0",
+            "dano": "8967",
+            "reparo": "0",
+            "bomba": "00:03",
+            "sabotagem": "01:05",
+            "kills": "7",
+            "deaths": "8",
+            "assists": "5"
+        },
+        {
+            "nome": "Raven0-399",
+            "carro": "Wildfire",
+			"gols": "1",
+            "dano": "12918",
+            "reparo": "0",
+            "bomba": "01:23",
+            "sabotagem": "00:19",
+            "kills": "7",
+            "deaths": "10",
+            "assists": "7"
+    }]
+}

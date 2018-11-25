@@ -1,0 +1,100 @@
+{
+    "tempo de partida": "07:25",
+    "ganhador": "Time Azul",
+    "time azul": [{
+            "nome": "Corvo",
+            "carro": "Dirt Devil",
+			"gols": "0",
+            "dano": "14104",
+            "reparo": "0",
+            "bomba": "00:00",
+            "sabotagem": "00:09",
+            "kills": "10",
+            "deaths": "0",
+            "assists": "5"
+        },
+        {
+            "nome": "Gatito",
+            "carro": "Windrider",
+			"gols": "0",
+            "dano": "8816",
+            "reparo": "6455",
+            "bomba": "00:11",
+            "sabotagem": "00:51",
+            "kills": "5",
+            "deaths": "4",
+            "assists": "8"
+        },
+        {
+            "nome": "Ichihara",
+            "carro": "Little Monster",
+			"gols": "3",
+            "dano": "7836",
+            "reparo": "4447",
+            "bomba": "04:18",
+            "sabotagem": "00:56",
+            "kills": "2",
+            "deaths": "3",
+            "assists": "13"
+        },
+        {
+            "nome": "Rato sobre Rodas",
+            "carro": "Wildfire",
+			"gols": "0",
+            "dano": "12036",
+            "reparo": "0",
+            "bomba": "00:12",
+            "sabotagem": "00:14",
+            "kills": "7",
+            "deaths": "2",
+            "assists": "13"
+    }],
+    "time vermelho": [{
+            "nome": "PuppZ",
+            "carro": "Killer J",
+			"gols": "0",
+            "dano": "7125",
+            "reparo": "0",
+            "bomba": "00:06",
+            "sabotagem": "00:58",
+            "kills": "2",
+            "deaths": "7",
+            "assists": "4"
+        },
+        {
+            "nome": "RickyBotLutherKingJrGamePlays",
+            "carro": "Little Monster",
+			"gols": "0",
+            "dano": "5728",
+            "reparo": "3865",
+            "bomba": "02:01",
+            "sabotagem": "00:45",
+            "kills": "0",
+            "deaths": "3",
+            "assists": "3"
+        },
+        {
+            "nome": "Davivss",
+            "carro": "Artificer",
+			"gols": "0",
+            "dano": "4438",
+            "reparo": "13510",
+            "bomba": "00:00",
+            "sabotagem": "00:41",
+            "kills": "2",
+            "deaths": "5",
+            "assists": "0"
+        },
+        {
+            "nome": "Malkaviiano",
+            "carro": "Wildfire",
+			"gols": "0",
+            "dano": "11982",
+            "reparo": "0",
+            "bomba": "00:00",
+            "sabotagem": "00:17",
+            "kills": "5",
+            "deaths": "6",
+            "assists": "3"
+    }]
+}

@@ -1,0 +1,92 @@
+{
+    "tempo de partida": "08:14",
+    "ganhador": "time azul",
+    "time azul": [{
+            "nome": "Corvo",
+            "carro": "Clunker",
+            "dano": "6828",
+            "reparo": "0",
+            "bomba": "00:11",
+            "sabotagem": "01:14",
+            "kills": "2",
+            "deaths": "1",
+            "assists": "5"
+        },
+        {
+            "nome": "Birikita",
+            "carro": "Windrider",
+            "dano": "4970",
+            "reparo": "8200",
+            "bomba": "00:36",
+            "sabotagem": "00:30",
+            "kills": "1",
+            "deaths": "3",
+            "assists": "4"
+        },
+        {
+            "nome": "Pottro",
+            "carro": "Wildfire",
+            "dano": "15467",
+            "reparo": "0",
+            "bomba": "00:17",
+            "sabotagem": "00:24",
+            "kills": "15",
+            "deaths": "2",
+            "assists": "3"
+        },
+        {
+            "nome": "Thuglife",
+            "carro": "Little Monster",
+            "dano": "6593",
+            "reparo": "4460",
+            "bomba": "03:11",
+            "sabotagem": "00:56",
+            "kills": "3",
+            "deaths": "2",
+            "assists": "7"
+    }],
+    "time vermelho": [{
+            "nome": "Katsuraf",
+            "carro": "Dirt Devil",
+            "dano": "10754",
+            "reparo": "0",
+            "bomba": "00:00",
+            "sabotagem": "00:08",
+            "kills": "2",
+            "deaths": "6",
+            "assists": "3"
+        },
+        {
+            "nome": "Myly",
+            "carro": "Killer J",
+            "dano": "8312",
+            "reparo": "0",
+            "bomba": "00:51",
+            "sabotagem": "01:29",
+            "kills": "0",
+            "deaths": "6",
+            "assists": "4"
+        },
+        {
+            "nome": "Coldhands",
+            "carro": "Stingray",
+            "dano": "9155",
+            "reparo": "0",
+            "bomba": "00:10",
+            "sabotagem": "01:15",
+            "kills": "5",
+            "deaths": "4",
+            "assists": "0"
+        },
+        {
+            "nome": "Penha",
+            "carro": "Photon",
+            "dano": "6836",
+            "reparo": "10554",
+            "bomba": "02:03",
+            "sabotagem": "00:00",
+            "kills": "1",
+            "deaths": "5",
+            "assists": "4"
+    }]
+}

@@ -1,0 +1,100 @@
+{
+    "tempo de partida": "08:33",
+    "ganhador": "Time Vermelho",
+    "time azul": [{
+            "nome": "L'Enfer",
+            "carro": "Wildfire",
+			"gols": "0",
+            "dano": "9413",
+            "reparo": "0",
+            "bomba": "00:10",
+            "sabotagem": "00:11",
+            "kills": "6",
+            "deaths": "5",
+            "assists": "4"
+        },
+        {
+            "nome": "Stchublembs",
+            "carro": "Rampage",
+			"gols": "0",
+            "dano": "13169",
+            "reparo": "0",
+            "bomba": "00:00",
+            "sabotagem": "00:22",
+            "kills": "5",
+            "deaths": "8",
+            "assists": "5"
+        },
+        {
+            "nome": "Raven0-399",
+            "carro": "Little Monster",
+			"gols": "0",
+            "dano": "5172",
+            "reparo": "2313",
+            "bomba": "02:05",
+            "sabotagem": "01:03",
+            "kills": "1",
+            "deaths": "6",
+            "assists": "4"
+        },
+        {
+            "nome": "bardZ",
+            "carro": "Stargazer",
+			"gols": "0",
+            "dano": "7469",
+            "reparo": "12351",
+            "bomba": "00:01",
+            "sabotagem": "00:00",
+            "kills": "2",
+            "deaths": "5",
+            "assists": "7"
+    }],
+    "time vermelho": [{
+            "nome": "RickyBotLutherKingJrGamePlays",
+            "carro": "Full Metal Judge",
+			"gols": "3",
+            "dano": "11787",
+            "reparo": "0",
+            "bomba": "05:09",
+            "sabotagem": "00:00",
+            "kills": "9",
+            "deaths": "3",
+            "assists": "8"
+        },
+        {
+            "nome": "PuppZ",
+            "carro": "Windrider",
+			"gols": "0",
+            "dano": "8645",
+            "reparo": "6844",
+            "bomba": "00:04",
+            "sabotagem": "01:08",
+            "kills": "7",
+            "deaths": "5",
+            "assists": "6"
+        },
+        {
+            "nome": "Davivss",
+            "carro": "Stingray",
+			"gols": "0",
+            "dano": "9913",
+            "reparo": "0",
+            "bomba": "00:07",
+            "sabotagem": "01:33",
+            "kills": "4",
+            "deaths": "1",
+            "assists": "7"
+        },
+        {
+            "nome": "Malkaviiano",
+            "carro": "Wildfire",
+			"gols": "0",
+            "dano": "11916",
+            "reparo": "0",
+            "bomba": "00:07",
+            "sabotagem": "00:25",
+            "kills": "4",
+            "deaths": "5",
+            "assists": "11"
+    }]
+}
